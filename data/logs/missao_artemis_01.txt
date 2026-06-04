@@ -1,0 +1,23 @@
+MISSAO: ARTEMIS-01
+DATA: 2026-03-15 08:00 UTC
+TRIPULACAO: 4 astronautas
+
+[08:00] Sistema de propulsao inicializado. Todos os parametros normais.
+[08:45] Decolagem realizada com sucesso. Velocidade de escape atingida.
+[09:30] Separacao do primeiro estagio confirmada. Trajetoria estavel.
+[10:15] Comunicacao com estacao terra estabelecida. Sinal forte.
+[11:00] ALERTA: Temperatura do reator 1 acima do limite: 340C (limite: 320C). Acionando resfriamento auxiliar.
+[11:05] Sistema de resfriamento auxiliar ativado. Temperatura reduzindo.
+[11:20] Temperatura normalizada: 315C. Situacao sob controle.
+[12:00] Manobra de insercao orbital executada. Orbita circular confirmada.
+[13:00] CRITICO: Falha no painel solar secundario. Potencia reduzida em 30%.
+[13:10] Sistemas nao essenciais desligados para preservar energia.
+[13:45] Reparos iniciados pela equipe de manutencao a bordo.
+[14:30] Painel solar parcialmente restaurado. Potencia em 85%.
+[15:00] Todos os sistemas operacionais. Missao continua conforme planejado.
+[16:00] Coleta de amostras do solo lunar iniciada via braco robotico.
+[17:00] 12 amostras coletadas com sucesso. Analise preliminar em andamento.
+[18:00] AVISO: Nivel de oxigenio na cabine: 19.2% (minimo recomendado: 19.5%).
+[18:15] Sistema de reciclagem de ar ajustado. Nivel de oxigenio subindo.
+[18:30] Nivel de oxigenio: 20.1%. Situacao normalizada.
+[20:00] Encerramento das atividades do dia. Tripulacao em repouso.

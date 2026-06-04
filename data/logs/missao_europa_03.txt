@@ -1,0 +1,21 @@
+MISSAO: EUROPA-EXPLORER-03
+DATA: 2026-05-20 12:00 UTC
+OBJETIVO: Analise da superficie e oceano subterraneo de Europa (lua de Jupiter)
+
+[12:00] Sonda ativada remotamente. Todos os subsistemas online.
+[12:30] Comunicacao estabelecida com delay de 43 minutos (distancia Jupiter).
+[13:00] Sensor de espectroscopia calibrado. Pronto para coleta de dados.
+[14:00] Primeiras imagens da superficie de Europa capturadas.
+[14:30] Detectadas rachaduras na crosta de gelo. Possiveis plumas de agua.
+[15:00] ALERTA: Radiacao de Jupiter acima do normal: 850 rad/h (limite: 800 rad/h).
+[15:10] Modo de operacao reduzida ativado para proteger eletronica.
+[16:00] Analise espectroscopica detectou presenca de compostos organicos.
+[16:30] CRITICO: Falha no aquecedor do compartimento de baterias. Temperatura: -140C.
+[16:35] Bateria auxiliar de emergencia ativada. Sistema estabilizado.
+[17:00] Perfurador de gelo iniciado. Profundidade alvo: 2 metros.
+[18:00] Perfuracao concluida. Amostras de gelo coletadas.
+[18:30] Analise das amostras: presenca de sal e compostos de enxofre detectados.
+[19:00] CRITICO: Comunicacao com Terra intermitente. Interferencia solar.
+[19:30] Comunicacao reestabelecida via antena de backup.
+[20:00] Dados transmitidos com sucesso para FIAP Mission Control.
+[21:00] Missao do dia concluida com sucesso. Descobertas significativas registradas.

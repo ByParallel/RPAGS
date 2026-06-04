@@ -1,0 +1,24 @@
+MISSAO: ARTEMIS-02
+DATA: 2026-04-10 06:00 UTC
+TRIPULACAO: 3 astronautas
+
+[06:00] Pre-launch checklist completo. Todos os sistemas verificados.
+[06:30] Decolagem nominal. Sem anomalias detectadas.
+[07:00] Separacao do primeiro estagio OK. Segundo estagio ignicionado.
+[07:45] Insercao na orbita de transferencia lunar. Trajetoria confirmada.
+[09:00] CRITICO: Falha no sistema de navegacao principal. Mudando para backup.
+[09:05] Sistema de navegacao backup ativado. Trajetoria recalculada.
+[09:15] Trajetoria corrigida com sucesso. Missao continua.
+[10:00] ALERTA: Micrometeoritos detectados na trajetoria. Manobra evasiva iniciada.
+[10:10] Manobra evasiva concluida. Sem impactos registrados.
+[12:00] Ponto medio da trajetoria atingido. Comunicacao com FIAP Ground Control estavel.
+[14:00] CRITICO: Vazamento de combustivel no tanque 2. Taxa: 0.3L/min.
+[14:10] Valvula de isolamento ativada. Vazamento contido.
+[14:20] Estimativa de combustivel restante: suficiente para completar missao.
+[16:00] Insercao na orbita lunar realizada. Altitude: 100km.
+[17:00] Experimentos cientificos iniciados. Coleta de dados geofisicos.
+[18:00] Detectado campo magnetico anomalo na regiao do polo sul lunar.
+[19:00] CRITICO: Tempestade solar detectada. Aumentando blindagem de radiacao.
+[19:30] Tripulacao em area protegida. Dose de radiacao dentro dos limites.
+[21:00] Tempestade solar dissipando. Retorno as atividades normais.
+[22:00] Dia de missao encerrado. Todos os sistemas operacionais.
